@@ -6,6 +6,9 @@ from function_interactions import*
 sticks = ["-", "--","---","----","-----"]
 my_mix = mix_sticks(sticks)
 print(my_mix)
+try1 = try_your_luck()
+print(try1)
+print(verify_number(my_mix, try1))
 # method_help()
 # function()
 # returnS()
